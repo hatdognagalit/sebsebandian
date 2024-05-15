@@ -10884,7 +10884,7 @@ const Ph = "./assets/logo-1EnBdt9n.png",
             }),
             a.jsx("p", {
               children:
-                "This module is: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam repellat tempora aspernatur consectetur, veritatis possimus consequuntur unde asperiores animi vero odio nobis quisquam debitis cumque iusto sunt nesciunt rem adipisci.",
+                "Learn about processes that happen on their own, without needing a push. Discover what makes these processes tick and how to tell which way they'll go. We'll cover the basic rules that make things happen all by themselves.,
             }),
             a.jsx(Ne, {
               style: { textDecoration: "none" },
@@ -10904,7 +10904,7 @@ const Ph = "./assets/logo-1EnBdt9n.png",
             }),
             a.jsx("p", {
               children:
-                "This module is: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam repellat tempora aspernatur consectetur, veritatis possimus consequuntur unde asperiores animi vero odio nobis quisquam debitis cumque iusto sunt nesciunt rem adipisci.",
+                "Delve into the idea of disorder and chaos in thermodynamics. Find out how we measure this disorder, called entropy, and why it's so important in deciding which way things naturally move. We'll explore how things tend to spread out and become messier over time.",
             }),
             a.jsx(Ne, {
               style: { textDecoration: "none" },
@@ -10922,7 +10922,7 @@ const Ph = "./assets/logo-1EnBdt9n.png",
             a.jsx("h1", { children: "Lesson 3: Viscosity" }),
             a.jsx("p", {
               children:
-                "This module is: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam repellat tempora aspernatur consectetur, veritatis possimus consequuntur unde asperiores animi vero odio nobis quisquam debitis cumque iusto sunt nesciunt rem adipisci.",
+                "Uncover the power behind Gibbs free energy, a key player in deciding if a process can happen without outside help. See how it drives chemical reactions and changes between different states of matter, helping us understand when things will reach a balance.",
             }),
             a.jsx(Ne, {
               style: { textDecoration: "none" },
