@@ -10884,7 +10884,7 @@ const Ph = "./assets/logo-1EnBdt9n.png",
             }),
             a.jsx("p", {
               children:
-                "Learn about processes that happen on their own, without needing a push. Discover what makes these processes tick and how to tell which way they'll go. We'll cover the basic rules that make things happen all by themselves.,
+                "Learn about processes that happen on their own, without needing a push. Discover what makes these processes tick and how to tell which way they'll go. We'll cover the basic rules that make things happen all by themselves.",
             }),
             a.jsx(Ne, {
               style: { textDecoration: "none" },
