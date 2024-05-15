@@ -11447,7 +11447,7 @@ const Ph = "./assets/logo-1EnBdt9n.png",
             a.jsx("h1", { children: "Lesson 3: Viscosity" }),
             a.jsx("p", {
               children:
-                "Uncover the power behind Gibbs free energy, a key player in deciding if a process can happen without outside help. See how it drives chemical reactions and changes between different states of matter, helping us understand when things will reach a balance.,
+                "Uncover the power behind Gibbs free energy, a key player in deciding if a process can happen without outside help. See how it drives chemical reactions and changes between different states of matter, helping us understand when things will reach a balance.",
             }),
             a.jsx(Ne, {
               style: { textDecoration: "none" },
